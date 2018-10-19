@@ -1,1 +1,1 @@
-# baiduyu_filecut
+# 一个简单的百度云重复文件删除脚本，main.py为主要逻辑，需要提前获取两个参数cookie，和bdstoken，便可以自动根据MD5值删除重复
